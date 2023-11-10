@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "TOKENS",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity.sol": "TokenContract"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity.sol": {
+			"keccak256": "0x026b9b721958b92efe7e142bc4f61cec80e888f104d8e9e4f9d567f756278924",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://b208bc99405aeab5be92ab310dca5af96ff5c983a3922350cb7e202be46a0a91",
+				"dweb:/ipfs/Qmb5WZbbAD1DqHkA5Lu3hdUtAgniQejCcp5XvEA5G4vMFZ"
+			]
+		}
+	},
+	"version": 1
+}

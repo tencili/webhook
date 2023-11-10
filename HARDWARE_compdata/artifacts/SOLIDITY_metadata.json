@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "TOKENS",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity.sol": "SOLIDITY"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity.sol": {
+			"keccak256": "0xfa1f73e4a3358ef483e208c08b107f4bc8388184fff7594a9af12524b422343f",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://81eb4e61e9e13123c73508ee21777c7b56dd43ffa6a51c985825f13e4ab16bd0",
+				"dweb:/ipfs/QmaueES64SvqXDDoXRUrk7QvEqkeXfFQRwsahKN7DAZpmC"
+			]
+		}
+	},
+	"version": 1
+}

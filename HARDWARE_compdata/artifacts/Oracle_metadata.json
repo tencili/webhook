@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getBtcToUsdRate",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity.sol": "Oracle"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity.sol": {
+			"keccak256": "0x597c97d4321643efef38ea8e8f2a063b35fca1bce94b6fbeed00c6e28aed100c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8d858cdc920d8fe85072093d2167b91cd99e3689dde1f719d8089748f0bba904",
+				"dweb:/ipfs/QmQGJcHWio6ymDwd92o3phPjx2NTvbS7YpsvbgzrcPWPme"
+			]
+		}
+	},
+	"version": 1
+}

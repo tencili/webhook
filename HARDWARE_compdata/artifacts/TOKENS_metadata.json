@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "SOLIDITY_BALANCE",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity.sol": "TOKENS"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity.sol": {
+			"keccak256": "0x311abd35a65e4ecc0ed43966fada949318457c62263a683c6b69e79d7e16f541",
+			"urls": [
+				"bzz-raw://336c7f29829be4b88aded76d6b76ec96c49306b1f1b939a3acebf41841ab1d55",
+				"dweb:/ipfs/QmenBcUqfXiqBjPqPmDLqYHSc4XAPm6RJNZ3VhBXkTYeJu"
+			]
+		}
+	},
+	"version": 1
+}
